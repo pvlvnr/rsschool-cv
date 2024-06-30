@@ -1,7 +1,5 @@
-## Ira Prafinovich ##
+## Ira Parfinovich ##
 gmail: irina.parfinovich.99@gmail.com\
-Frontend developer
-***
+Frontend developer\
 Belarus, Minsk\
-Belarus State Economic University\
-*Finance and Credit*
+Belarus State Economic University
