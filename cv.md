@@ -2,6 +2,6 @@
 gmail: irina.parfinovich.99@gmail.com\
 Frontend developer
 ***
-*Minsk*\
+Belarus, Minsk\
 Belarus State Economic University\
-Finance and Credit
+*Finance and Credit*
